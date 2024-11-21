@@ -1,0 +1,15 @@
+
+body {
+    background-color: #2C3937;
+}
+
+.chat-container {
+    background-color:#1A1F1F;
+    max-height: 70vh;
+    min-height: 70vh;
+    overflow-y: scroll;
+
+}
+
+
+
